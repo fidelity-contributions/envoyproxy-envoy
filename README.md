@@ -25,6 +25,8 @@ involved and how Envoy plays a role, read the CNCF
 * [Blog](https://medium.com/@mattklein123/envoy-stats-b65c7f363342) about stats architecture
 * [Blog](https://medium.com/@mattklein123/the-universal-data-plane-api-d15cec7a) about universal data plane API
 * [Blog](https://medium.com/@mattklein123/lyfts-envoy-dashboards-5c91738816b1) on Lyft's Envoy dashboards
+* [Sample Configurations](https://www.envoyproxy.io/docs/envoy/latest/configuration/overview/examples)
+* [Lua Support](https://www.envoyproxy.io/docs/envoy/latest/configuration/http/http_filters/lua_filter)
 
 ## Related
 
